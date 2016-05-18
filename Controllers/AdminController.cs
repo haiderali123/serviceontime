@@ -9,6 +9,7 @@ namespace Community2.Controllers
 {
     public class AdminController : Controller
     {
+
         //
         // GET: /Admin/
         Database1Entities7 ctx = new Database1Entities7();
