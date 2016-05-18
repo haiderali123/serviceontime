@@ -1,0 +1,360 @@
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Community2.dll.config
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Community2.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Community2.pdb
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Antlr3.Runtime.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\EntityFramework.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\EntityFramework.SqlServer.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Newtonsoft.Json.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Owin.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Helpers.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Mvc.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Optimization.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Razor.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.WebPages.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\WebGrease.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Helpers.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Mvc.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Optimization.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.Razor.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.WebPages.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Newtonsoft.Json.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Antlr3.Runtime.pdb
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\EntityFramework.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\EntityFramework.SqlServer.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\obj\Debug\Community2.csprojResolveAssemblyReference.cache
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\obj\Debug\Community2.dll
+C:\Users\Waleed Ali\Documents\Visual Studio 2013\Projects\Community2\Community2\obj\Debug\Community2.pdb
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Community2.dll.config
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Community2.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Community2.pdb
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Antlr3.Runtime.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\EntityFramework.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\EntityFramework.SqlServer.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Newtonsoft.Json.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Owin.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Helpers.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Mvc.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Optimization.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Razor.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.WebPages.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\WebGrease.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Helpers.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Mvc.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Optimization.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.Razor.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.WebPages.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Newtonsoft.Json.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Antlr3.Runtime.pdb
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\EntityFramework.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\EntityFramework.SqlServer.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\obj\Debug\Community2.dll
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\obj\Debug\Community2.pdb
+C:\Users\Nisar\Downloads\Community2\Community2\Community2\obj\Debug\Community2.csprojResolveAssemblyReference.cache
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\obj\Debug\Community2.csprojResolveAssemblyReference.cache
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\obj\Debug\Community2.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\obj\Debug\Community2.pdb
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\App_Data\Database1.mdf
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\App_Data\Database1_log.ldf
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\App_Data\Db.mdf
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\App_Data\Db_log.ldf
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Community2.dll.config
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Community2.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Community2.pdb
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Antlr3.Runtime.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\DAL.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\EntityFramework.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\EntityFramework.SqlServer.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Newtonsoft.Json.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Owin.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Net.Http.Formatting.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Helpers.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Http.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Http.WebHost.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Mvc.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Optimization.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Razor.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.WebPages.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\WebGrease.dll
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\DAL.pdb
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Net.Http.Formatting.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Http.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Http.WebHost.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Helpers.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Mvc.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Optimization.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.Razor.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.WebPages.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Newtonsoft.Json.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Antlr3.Runtime.pdb
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\EntityFramework.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\EntityFramework.SqlServer.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Haider_ali\Desktop\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Community2\Community2\Community2\bin\Community2.dll.config
+G:\Community2\Community2\Community2\bin\Community2.dll
+G:\Community2\Community2\Community2\bin\Community2.pdb
+G:\Community2\Community2\Community2\bin\Antlr3.Runtime.dll
+G:\Community2\Community2\Community2\bin\EntityFramework.dll
+G:\Community2\Community2\Community2\bin\EntityFramework.SqlServer.dll
+G:\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Community2\Community2\Community2\bin\Microsoft.Web.Infrastructure.dll
+G:\Community2\Community2\Community2\bin\Newtonsoft.Json.dll
+G:\Community2\Community2\Community2\bin\Owin.dll
+G:\Community2\Community2\Community2\bin\System.Net.Http.Formatting.dll
+G:\Community2\Community2\Community2\bin\System.Web.Helpers.dll
+G:\Community2\Community2\Community2\bin\System.Web.Http.dll
+G:\Community2\Community2\Community2\bin\System.Web.Http.WebHost.dll
+G:\Community2\Community2\Community2\bin\System.Web.Mvc.dll
+G:\Community2\Community2\Community2\bin\System.Web.Optimization.dll
+G:\Community2\Community2\Community2\bin\System.Web.Razor.dll
+G:\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.dll
+G:\Community2\Community2\Community2\bin\System.Web.WebPages.dll
+G:\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.dll
+G:\Community2\Community2\Community2\bin\WebGrease.dll
+G:\Community2\Community2\Community2\bin\System.Net.Http.Formatting.xml
+G:\Community2\Community2\Community2\bin\System.Web.Http.xml
+G:\Community2\Community2\Community2\bin\System.Web.Http.WebHost.xml
+G:\Community2\Community2\Community2\bin\System.Web.Helpers.xml
+G:\Community2\Community2\Community2\bin\System.Web.Mvc.xml
+G:\Community2\Community2\Community2\bin\System.Web.Optimization.xml
+G:\Community2\Community2\Community2\bin\System.Web.Razor.xml
+G:\Community2\Community2\Community2\bin\System.Web.WebPages.xml
+G:\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.xml
+G:\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.xml
+G:\Community2\Community2\Community2\bin\Newtonsoft.Json.xml
+G:\Community2\Community2\Community2\bin\Antlr3.Runtime.pdb
+G:\Community2\Community2\Community2\bin\EntityFramework.xml
+G:\Community2\Community2\Community2\bin\EntityFramework.SqlServer.xml
+G:\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Community2\Community2\Community2\obj\Debug\Community2.csprojResolveAssemblyReference.cache
+G:\Community2\Community2\Community2\obj\Debug\Community2.dll
+G:\Community2\Community2\Community2\obj\Debug\Community2.pdb
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Community2.dll.config
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Community2.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Community2.pdb
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Antlr3.Runtime.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\EntityFramework.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\EntityFramework.SqlServer.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Newtonsoft.Json.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Owin.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Net.Http.Formatting.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Helpers.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.WebHost.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Mvc.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Optimization.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Razor.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\WebGrease.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Net.Http.Formatting.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.WebHost.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Helpers.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Mvc.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Optimization.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.Razor.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Newtonsoft.Json.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Antlr3.Runtime.pdb
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\EntityFramework.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\EntityFramework.SqlServer.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\obj\Debug\Community2.csprojResolveAssemblyReference.cache
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\obj\Debug\Community2.dll
+C:\Users\Nisar\Desktop\pROJECT\Community2\Community2\Community2\obj\Debug\Community2.pdb
+F:\pROJECT\Community2\Community2\Community2\bin\Community2.dll.config
+F:\pROJECT\Community2\Community2\Community2\bin\Community2.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Community2.pdb
+F:\pROJECT\Community2\Community2\Community2\bin\Antlr3.Runtime.dll
+F:\pROJECT\Community2\Community2\Community2\bin\EntityFramework.dll
+F:\pROJECT\Community2\Community2\Community2\bin\EntityFramework.SqlServer.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Web.Infrastructure.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Newtonsoft.Json.dll
+F:\pROJECT\Community2\Community2\Community2\bin\Owin.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Net.Http.Formatting.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Helpers.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.WebHost.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Mvc.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Optimization.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Razor.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.dll
+F:\pROJECT\Community2\Community2\Community2\bin\WebGrease.dll
+F:\pROJECT\Community2\Community2\Community2\bin\System.Net.Http.Formatting.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Http.WebHost.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Helpers.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Mvc.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Optimization.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.Razor.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Deployment.xml
+F:\pROJECT\Community2\Community2\Community2\bin\System.Web.WebPages.Razor.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Newtonsoft.Json.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Antlr3.Runtime.pdb
+F:\pROJECT\Community2\Community2\Community2\bin\EntityFramework.xml
+F:\pROJECT\Community2\Community2\Community2\bin\EntityFramework.SqlServer.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Core.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Facebook.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Cookies.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.OAuth.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Google.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.Twitter.xml
+F:\pROJECT\Community2\Community2\Community2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\pROJECT\Community2\Community2\Community2\obj\Debug\Community2.dll
+F:\pROJECT\Community2\Community2\Community2\obj\Debug\Community2.pdb
+F:\pROJECT\Community2\Community2\Community2\obj\Debug\Community2.csprojResolveAssemblyReference.cache

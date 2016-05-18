@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1Model1StoreContainer" CdmEntityContainer="Database1Entities1">
+    <EntitySetMapping Name="promotions">
+      <EntityTypeMapping TypeName="IsTypeOf(Database1Model1.promotion)">
+        <MappingFragment StoreEntitySet="promotions">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="subject" ColumnName="subject" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="services">
+      <EntityTypeMapping TypeName="IsTypeOf(Database1Model1.service)">
+        <MappingFragment StoreEntitySet="services">
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="service_type" ColumnName="service_type" />
+          <ScalarProperty Name="total_requests" ColumnName="total_requests" />
+          <ScalarProperty Name="workers" ColumnName="workers" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="worker_Portfolio">
+      <EntityTypeMapping TypeName="IsTypeOf(Database1Model1.worker_Portfolio)">
+        <MappingFragment StoreEntitySet="worker_Portfolio">
+          <ScalarProperty Name="experience_1" ColumnName="experience " />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="cnic" ColumnName="cnic" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="contact1" ColumnName="contact1" />
+          <ScalarProperty Name="contact2" ColumnName="contact2" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="categories">
+      <EntityTypeMapping TypeName="Database1Model1.category">
+        <MappingFragment StoreEntitySet="category">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="sid" ColumnName="sid" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="request1">
+      <EntityTypeMapping TypeName="Database1Model1.request1">
+        <MappingFragment StoreEntitySet="request">
+          <ScalarProperty Name="availability_slots" ColumnName="availability_slots" />
+          <ScalarProperty Name="request_time" ColumnName="request_time" />
+          <ScalarProperty Name="request_date" ColumnName="request_date" />
+          <ScalarProperty Name="request_type" ColumnName="request_type" />
+          <ScalarProperty Name="requested_worker_id" ColumnName="requested_worker_id" />
+          <ScalarProperty Name="request_status" ColumnName="request_status" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Table1">
+      <EntityTypeMapping TypeName="Database1Model1.Table1">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user1">
+      <EntityTypeMapping TypeName="Database1Model1.user1">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="contact" ColumnName="contact" />
+          <ScalarProperty Name="cnic" ColumnName="cnic" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

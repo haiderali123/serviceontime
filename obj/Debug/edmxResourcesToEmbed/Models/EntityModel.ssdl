@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="sid" Type="int" />
+    <Property Name="name" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="promotions">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="subject" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="description" Type="ntext" Nullable="false" />
+  </EntityType>
+  <EntityType Name="request">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_id" Type="int" Nullable="false" />
+    <Property Name="request_status" Type="ntext" Nullable="false" />
+    <Property Name="requested_worker_id" Type="int" Nullable="false" />
+    <Property Name="request_type" Type="ntext" Nullable="false" />
+    <Property Name="request_date" Type="date" Nullable="false" />
+    <Property Name="request_time" Type="time" Precision="7" Nullable="false" />
+    <Property Name="availability_slots" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="services">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="service_type" Type="ntext" Nullable="false" />
+    <Property Name="total_requests" Type="int" Nullable="false" />
+    <Property Name="workers" Type="int" Nullable="false" />
+    <Property Name="description" Type="ntext" Nullable="false" />
+    <Property Name="category" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="cnic" Type="numeric" Precision="13" Scale="0" Nullable="false" />
+    <Property Name="contact" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="address" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="worker_Portfolio">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="ntext" Nullable="false" />
+    <Property Name="cnic" Type="numeric" Precision="13" Scale="0" Nullable="false" />
+    <Property Name="contact1" Type="numeric" Precision="11" Scale="0" Nullable="false" />
+    <Property Name="address" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="experience " Type="nchar" MaxLength="10" />
+    <Property Name="contact2" Type="numeric" Precision="11" Scale="0" />
+    <Property Name="type" Type="text" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_category_ToService">
+    <End Role="services" Type="Self.services" Multiplicity="0..1" />
+    <End Role="category" Type="Self.category" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="services">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="category">
+        <PropertyRef Name="sid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1Model1StoreContainer">
+    <EntitySet Name="category" EntityType="Self.category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="promotions" EntityType="Self.promotions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="request" EntityType="Self.request" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="services" EntityType="Self.services" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table" EntityType="Self.Table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="worker_Portfolio" EntityType="Self.worker_Portfolio" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_category_ToService" Association="Self.FK_category_ToService">
+      <End Role="services" EntitySet="services" />
+      <End Role="category" EntitySet="category" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
