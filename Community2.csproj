@@ -401,10 +401,8 @@
     <Content Include="Views\Home\Signup.cshtml" />
     <Content Include="Views\Admin\Main.cshtml" />
     <Content Include="Views\Admin\ValidateSignIn.cshtml" />
-    <Content Include="Views\Admin\DeleteUser.cshtml" />
     <Content Include="Views\Admin\EditUser.cshtml" />
     <Content Include="Views\Admin\EditService.cshtml" />
-    <Content Include="Views\Admin\EditCategory.cshtml" />
     <Content Include="Views\Admin\EditWorker.cshtml" />
     <Content Include="Views\Admin\EditPromotion.cshtml" />
   </ItemGroup>

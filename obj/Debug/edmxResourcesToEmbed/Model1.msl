@@ -65,18 +65,6 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="users">
-      <EntityTypeMapping TypeName="Database1Model.user">
-        <MappingFragment StoreEntitySet="user">
-          <ScalarProperty Name="Id" ColumnName="Id" />
-          <ScalarProperty Name="username" ColumnName="username" />
-          <ScalarProperty Name="password" ColumnName="password" />
-          <ScalarProperty Name="cnic" ColumnName="cnic" />
-          <ScalarProperty Name="contact" ColumnName="contact" />
-          <ScalarProperty Name="address" ColumnName="address" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="user_request">
       <EntityTypeMapping TypeName="Database1Model.user_request">
         <MappingFragment StoreEntitySet="user_request">
@@ -88,17 +76,29 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="Database1Model.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="contact" ColumnName="contact" />
+          <ScalarProperty Name="cnic" ColumnName="cnic" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
     <EntitySetMapping Name="worker_Portfolio">
       <EntityTypeMapping TypeName="Database1Model.worker_Portfolio">
         <MappingFragment StoreEntitySet="worker_Portfolio">
-          <ScalarProperty Name="Id" ColumnName="Id" />
-          <ScalarProperty Name="name" ColumnName="name" />
-          <ScalarProperty Name="cnic" ColumnName="cnic" />
-          <ScalarProperty Name="contact1" ColumnName="contact1" />
-          <ScalarProperty Name="address" ColumnName="address" />
-          <ScalarProperty Name="experience_" ColumnName="experience " />
-          <ScalarProperty Name="contact2" ColumnName="contact2" />
           <ScalarProperty Name="sid" ColumnName="sid" />
+          <ScalarProperty Name="contact2" ColumnName="contact2" />
+          <ScalarProperty Name="experience_" ColumnName="experience " />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="contact1" ColumnName="contact1" />
+          <ScalarProperty Name="cnic" ColumnName="cnic" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

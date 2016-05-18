@@ -245,14 +245,14 @@ if (Session["Admin"] != null)
     public ActionResult DeleteUser(int id)
         {
         if (Session["Admin"] != null)
-            {
-        user user = ctx.users.First(x => x.Id.Equals(id));
-        ctx.users.Remove(user);
-        ctx.SaveChanges();
-       return RedirectToAction("/Admin/userview");
-            }
+        {
+            user user = ctx.users.First(x => x.Id.Equals(id));
+            ctx.users.Remove(user);
+            ctx.SaveChanges();
+            return RedirectToAction("userview");
+        }
         else
-            return RedirectToAction("/Index");
+            return RedirectToAction("Index");
         }
     public ActionResult DeleteService(int id)
     {
@@ -261,10 +261,10 @@ if (Session["Admin"] != null)
             service ser = ctx.services.First(x => x.Id.Equals(id));
             ctx.services.Remove(ser);
             ctx.SaveChanges();
-            return RedirectToAction("/Admin/viewService");
+            return RedirectToAction("viewService");
         }
         else
-            return RedirectToAction("/Index");
+            return RedirectToAction("Index");
     }
     public ActionResult DeletePromotion(int id)
     {
@@ -273,10 +273,10 @@ if (Session["Admin"] != null)
             promotion pro = ctx.promotions.First(x => x.Id.Equals(id));
             ctx.promotions.Remove(pro);
             ctx.SaveChanges();
-            return RedirectToAction("/Admin/viewPromotion");
+            return RedirectToAction("viewPromotion");
         }
         else
-            return RedirectToAction("/Index");
+            return RedirectToAction("Index");
     }
     public ActionResult DeleteWorker(int id)
     {
@@ -285,10 +285,10 @@ if (Session["Admin"] != null)
             worker_Portfolio worker = ctx.worker_Portfolio.First(x => x.Id.Equals(id));
             ctx.worker_Portfolio.Remove(worker);
             ctx.SaveChanges();
-            return RedirectToAction("/Admin/viewWorker");
+            return RedirectToAction("viewWorker");
         }
         else
-            return RedirectToAction("/Index");
+            return RedirectToAction("Index");
     }
     public ActionResult EditUser(int id)
     {
@@ -334,21 +334,46 @@ if (Session["Admin"] != null)
             return RedirectToAction("/Index");
 
     }
-    public void EditUserinDb(user User)
+    public ActionResult EditUserinDb(user User)
     {
-
+        if (Session["Admin"] != null)
+        {
+            user u = ctx.users.FirstOrDefault(x => x.Id == User.Id);
+            u.cnic = User.cnic;
+            u.contact = User.contact;
+            u.address = User.address;
+            ctx.SaveChanges();
+            return RedirectToAction("userview");
+        }
+        else
+            return RedirectToAction("Index");
     }
-    public void EditCategoryinDb(category Category)
+    public ActionResult EditServiceinDb(service Service)
     {
-
+        if (Session["Admin"] != null)
+        {
+            service ser = ctx.services.FirstOrDefault(x => x.Id == Service.Id);
+            ser.service_type = Service.service_type;
+            ser.no_of_workers = Service.no_of_workers;
+            ser.description = Service.description;
+            ctx.SaveChanges();
+            return RedirectToAction("viewService");
+        }
+        else
+            return RedirectToAction("Index");
     }
-    public void EditServiceinDb(service Service)
+    public ActionResult EditPromotioninDb(promotion Promotion)
     {
-
-    }
-    public void EditPromotioninDb(promotion Promotion)
-    {
-
+        if (Session["Admin"] != null)
+        {
+            promotion pro = ctx.promotions.FirstOrDefault(x => x.Id == Promotion.Id);
+            pro.subject = Promotion.subject;
+            pro.description = Promotion.description;
+            ctx.SaveChanges();
+            return RedirectToAction("viewPromotion");
+        }
+        else
+            return RedirectToAction("Index");
     }
     public ActionResult EditWorkerinDb(worker_Portfolio worker)
     {

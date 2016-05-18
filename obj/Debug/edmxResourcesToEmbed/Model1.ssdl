@@ -24,7 +24,7 @@
     <Key>
       <PropertyRef Name="Id" />
     </Key>
-    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="name" Type="nchar" MaxLength="10" />
   </EntityType>
   <EntityType Name="promotions">
@@ -65,7 +65,7 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="username" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="password" Type="nvarchar" MaxLength="50" Nullable="false" />
-    <Property Name="cnic" Type="numeric" Precision="13" Scale="0" Nullable="false" />
+    <Property Name="cnic" Type="nvarchar" MaxLength="20" Nullable="false" />
     <Property Name="contact" Type="nchar" MaxLength="10" Nullable="false" />
     <Property Name="address" Type="nvarchar" MaxLength="50" Nullable="false" />
   </EntityType>
@@ -85,7 +85,7 @@
     </Key>
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="name" Type="ntext" Nullable="false" />
-    <Property Name="cnic" Type="numeric" Precision="13" Scale="0" Nullable="false" />
+    <Property Name="cnic" Type="nvarchar" MaxLength="20" Nullable="false" />
     <Property Name="contact1" Type="numeric" Precision="11" Scale="0" Nullable="false" />
     <Property Name="address" Type="nchar" MaxLength="10" Nullable="false" />
     <Property Name="experience " Type="nchar" MaxLength="10" />

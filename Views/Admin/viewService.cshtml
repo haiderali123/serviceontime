@@ -46,11 +46,9 @@
                                 <td>@v.cid</td>
                                 <td>@v.description</td>
 
-                                <td><button class="form-control" onclick="self.location='/Admin/edituser/1'">Edit</button></td>
-                                <td>
-                                    <button class="form-control" onclick="self.location='/Admin/delete/2'">Delete</button>
 
-                                </td>
+                                <td><a class="btn btn-success" href="/Admin/EditService/@v.Id">Update</a><a class="btn btn-danger" href="/Admin/DeleteService/@v.Id">Delete</a></td>
+
 
                             </tr>
 
