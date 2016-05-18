@@ -22,6 +22,7 @@ namespace Community2.Controllers
 
         public AccountController(UserManager<ApplicationUser> userManager)
         {
+
             UserManager = userManager;
         }
 
